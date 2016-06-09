@@ -1,4 +1,4 @@
-body {font-family: 'Source Sans Pro', sans-serif; font-size: 13px; padding: 10px 0px 40px 0px; color: #333;}
+body {font-family: 'Montserrat', sans-serif; font-size: 13px; padding: 10px 0px 40px 0px; color: #333;}
 
 h1 {font-size: 48px; margin-bottom: 20px;}
 .highlighted {color: #ff6633; opacity: 1; transition: opacity .25s ease-in-out;}
@@ -9,7 +9,7 @@ p a {color: #ff6633;}
 
 .light-type {color: #777;} /* #06DDA0 */
 .dim {color: #acacac;}
-.fancy {font-family: 'Source Sans Pro', sans-serif; font-weight: lighter; font-style: regular;}
+.fancy {font-family: 'Montserrat', sans-serif; font-weight: lighter; font-style: regular;}
 
 #wrapper {margin: 0px auto; max-width: 900px; padding-top: 40px; }
 
